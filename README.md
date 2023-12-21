@@ -1,4 +1,5 @@
 Today on Mars
+
 'Today on Mars' is a cross-platform desktop application that fetches the latest images and data from the Curiosity Rover for a particular date using NASA's open API. The objective was to develop a desktop application with a user-friendly interface, allowing users to easily navigate and explore Curiosity Rover's latest images and data. 
 
 The "Today in Mars" project leverages two essential components to provide real-time access to Curiosity Rover's images and data:
